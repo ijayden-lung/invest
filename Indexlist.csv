@@ -1,0 +1,10 @@
+name,id,sector
+NASDAQ100,^NDX,index
+NASDAQ100TR,^XNDX,index
+S&PMIDCAP400,^MID,index
+S&P500,^GSPC,index
+S&P500TR,^SP500TR,index
+NIKKEI225,^N225,index
+恒生指数,^HSI,index
+中证500,000905.SZ,index
+中证1000,000852.SZ,index

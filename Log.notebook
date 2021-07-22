@@ -1,0 +1,31 @@
+[I 2021-07-22 08:38:01.523 ServerApp] jupyterlab | extension was successfully linked.
+[I 2021-07-22 08:38:01.804 ServerApp] nbclassic | extension was successfully linked.
+[I 2021-07-22 08:38:01.840 LabApp] JupyterLab extension loaded from /home/longy/anaconda3/envs/Invest/lib/python3.9/site-packages/jupyterlab
+[I 2021-07-22 08:38:01.840 LabApp] JupyterLab application directory is /home/longy/anaconda3/envs/Invest/share/jupyter/lab
+[I 2021-07-22 08:38:01.843 ServerApp] jupyterlab | extension was successfully loaded.
+[I 2021-07-22 08:38:01.848 ServerApp] nbclassic | extension was successfully loaded.
+[I 2021-07-22 08:38:01.849 ServerApp] Serving notebooks from local directory: /home/longy/invest
+[I 2021-07-22 08:38:01.849 ServerApp] Jupyter Server 1.4.1 is running at:
+[I 2021-07-22 08:38:01.849 ServerApp] http://localhost:8890/lab
+[I 2021-07-22 08:38:01.849 ServerApp]  or http://127.0.0.1:8890/lab
+[I 2021-07-22 08:38:01.849 ServerApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[I 2021-07-22 08:38:17.716 ServerApp] 302 GET / (127.0.0.1) 0.58ms
+[I 2021-07-22 08:38:17.727 LabApp] 302 GET /lab? (127.0.0.1) 0.73ms
+[I 2021-07-22 08:38:28.082 ServerApp] 302 POST /login?next=%2Flab%3F (127.0.0.1) 1.30ms
+[W 2021-07-22 08:38:30.855 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-07-22 08:38:34.006 ServerApp] Kernel started: 9b46106c-29c6-4041-8369-62a7f342e5b0
+[I 2021-07-22 08:38:35.327 ServerApp] Kernel started: 38a262e5-de10-44f7-834c-c0b49df0f3e0
+[I 2021-07-22 08:38:35.899 ServerApp] Adapting from protocol version 5.0 (kernel 38a262e5-de10-44f7-834c-c0b49df0f3e0) to 5.3 (client).
+[I 2021-07-22 08:38:35.900 ServerApp] Adapting from protocol version 5.0 (kernel 38a262e5-de10-44f7-834c-c0b49df0f3e0) to 5.3 (client).
+[I 2021-07-22 08:38:35.917 ServerApp] Adapting from protocol version 5.0 (kernel 38a262e5-de10-44f7-834c-c0b49df0f3e0) to 5.3 (client).
+[I 2021-07-22 08:38:40.791 ServerApp] Kernel restarted: 9b46106c-29c6-4041-8369-62a7f342e5b0
+[I 2021-07-22 08:40:33.294 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-22 08:59:59.294 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-22 09:03:59.332 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-22 09:05:23.686 ServerApp] Kernel restarted: 9b46106c-29c6-4041-8369-62a7f342e5b0
+[I 2021-07-22 09:05:59.389 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-22 09:06:08.820 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-22 09:06:33.471 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-22 09:13:05.813 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-22 09:13:13.923 ServerApp] Kernel restarted: 9b46106c-29c6-4041-8369-62a7f342e5b0
+[I 2021-07-22 09:14:33.563 ServerApp] Saving file at /CB.ipynb
