@@ -113,3 +113,26 @@ nohup: ignoring input
 [I 2021-07-27 09:40:47.225 ServerApp] Saving file at /CB.ipynb
 [I 2021-07-27 09:42:47.307 ServerApp] Saving file at /CB.ipynb
 [I 2021-07-27 09:43:23.181 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-28 09:12:56.805 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:8671c411-b1f9-4ff2-af21-8c0efdb09434
+[I 2021-07-28 09:12:56.805 ServerApp] Starting buffering for 286ae158-6854-4a80-8c68-bd0712880b80:70c83687-1a41-4270-b467-fc4578d30dad
+[W 2021-07-28 09:12:59.649 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-07-28 09:13:04.847 ServerApp] Adapting from protocol version 5.0 (kernel 286ae158-6854-4a80-8c68-bd0712880b80) to 5.3 (client).
+[I 2021-07-28 09:13:06.290 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-28 09:13:06.393 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:5fce308b-dade-43ff-8eec-079b2adee877
+[I 2021-07-28 09:13:06.401 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:5fce308b-dade-43ff-8eec-079b2adee877
+[I 2021-07-28 09:15:02.120 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-28 09:16:22.992 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-28 09:31:02.281 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 08:16:20.225 ServerApp] Starting buffering for 286ae158-6854-4a80-8c68-bd0712880b80:3d08df78-d789-4d55-9e60-a6d220ee9ea4
+[I 2021-07-29 08:16:20.226 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:5fce308b-dade-43ff-8eec-079b2adee877
+[W 2021-07-29 08:16:23.623 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-07-29 08:16:31.018 ServerApp] Adapting from protocol version 5.0 (kernel 286ae158-6854-4a80-8c68-bd0712880b80) to 5.3 (client).
+[I 2021-07-29 08:16:33.569 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-29 08:16:33.578 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:8bc0ccbb-2545-42f4-9647-e67cc9b78dc0
+[I 2021-07-29 08:16:33.591 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:8bc0ccbb-2545-42f4-9647-e67cc9b78dc0
+[I 2021-07-29 08:18:28.188 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 08:20:28.274 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 08:42:58.308 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 08:50:58.408 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 08:52:58.480 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 08:54:58.567 ServerApp] Saving file at /CB.ipynb
