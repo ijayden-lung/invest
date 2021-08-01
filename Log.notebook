@@ -136,3 +136,87 @@ nohup: ignoring input
 [I 2021-07-29 08:50:58.408 ServerApp] Saving file at /CB.ipynb
 [I 2021-07-29 08:52:58.480 ServerApp] Saving file at /CB.ipynb
 [I 2021-07-29 08:54:58.567 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 20:00:33.380 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:8bc0ccbb-2545-42f4-9647-e67cc9b78dc0
+[I 2021-07-29 20:00:33.381 ServerApp] Starting buffering for 286ae158-6854-4a80-8c68-bd0712880b80:4f3f6c7a-1922-4a03-a56e-2d7f7732fd1d
+[W 2021-07-29 20:00:36.358 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-07-29 20:00:42.843 ServerApp] Adapting from protocol version 5.0 (kernel 286ae158-6854-4a80-8c68-bd0712880b80) to 5.3 (client).
+[I 2021-07-29 20:04:39.347 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-29 20:05:16.488 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-29 20:05:16.497 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:888bdc46-1f9b-4d10-9c65-d86c72fe359c
+[I 2021-07-29 20:05:16.514 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:888bdc46-1f9b-4d10-9c65-d86c72fe359c
+[I 2021-07-29 20:06:39.455 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:01:05.846 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:888bdc46-1f9b-4d10-9c65-d86c72fe359c
+[I 2021-07-30 09:01:05.846 ServerApp] Starting buffering for 286ae158-6854-4a80-8c68-bd0712880b80:908b7b20-3ff3-4916-a3f5-3bd77e1c991c
+[W 2021-07-30 09:01:09.612 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-07-30 09:03:40.168 ServerApp] Adapting from protocol version 5.0 (kernel 286ae158-6854-4a80-8c68-bd0712880b80) to 5.3 (client).
+[I 2021-07-30 09:03:41.546 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 09:03:41.643 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:03:41.650 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:05:36.761 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:09:36.881 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:13:45.378 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 09:13:45.401 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:13:45.411 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:14:43.257 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 09:14:43.266 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:14:43.273 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:15:37.433 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:16:07.519 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 09:16:07.744 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:16:07.761 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:17:37.532 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:32:42.802 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-30 09:47:35.059 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 09:47:35.066 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:47:35.088 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:47:39.865 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:48:26.680 ServerApp] Saving file at /mycb_list.csv
+[I 2021-07-30 09:48:32.929 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 09:48:32.938 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:48:32.954 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 09:49:39.987 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 09:51:40.082 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 10:02:56.043 ServerApp] Kernel restarted: ce1a886d-e451-43ca-bc3e-dac7b3b03ae0
+[I 2021-07-30 10:02:56.051 ServerApp] Starting buffering for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 10:02:56.103 ServerApp] Restoring connection for ce1a886d-e451-43ca-bc3e-dac7b3b03ae0:27fd5fa2-98ea-46f5-8dc6-e95564801991
+[I 2021-07-30 10:03:40.232 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:26:03.235 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:34:03.352 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:40:03.489 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:42:03.577 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:46:03.684 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:48:03.772 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:50:03.861 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:54:03.958 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-30 23:56:04.057 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:00:04.281 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:06:06.638 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:18:06.780 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:20:07.422 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:22:07.707 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:28:07.804 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:32:07.907 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:34:08.014 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:36:08.105 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:38:08.197 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:48:08.327 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:50:08.417 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:52:08.504 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:54:08.610 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:56:03.684 ServerApp] Saving file at /db_history.csv
+[I 2021-07-31 00:56:08.693 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 00:56:16.170 ServerApp] Saving file at /db_history.csv
+[I 2021-07-31 00:57:29.794 ServerApp] Copying db_history.csv to 
+[I 2021-07-31 00:57:59.543 ServerApp] Saving file at /premium_history.csv
+[I 2021-07-31 00:58:08.782 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:00:08.938 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:02:09.033 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:14:09.796 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:20:09.908 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:22:10.000 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:24:10.096 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:24:34.313 ServerApp] Copying premium_history.csv to 
+[I 2021-07-31 01:25:00.741 ServerApp] Saving file at /premium_history-Copy1.csv
+[I 2021-07-31 01:26:10.191 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:28:10.289 ServerApp] Saving file at /CB.ipynb
+[I 2021-07-31 01:30:10.376 ServerApp] Saving file at /CB.ipynb
