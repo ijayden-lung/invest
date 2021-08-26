@@ -333,3 +333,66 @@ nohup: ignoring input
 [I 2021-08-20 10:02:48.407 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:7cd795a0-0ee7-4a9d-8745-e17e2a0fbc38
 [I 2021-08-20 10:03:05.541 ServerApp] Saving file at /CB.ipynb
 [I 2021-08-20 10:05:05.664 ServerApp] Saving file at /CB.ipynb
+[W 2021-08-23 08:07:08.494 ServerApp] Forbidden
+[W 2021-08-23 08:07:08.494 ServerApp] 403 GET /api/kernelspecs?1629695228476 (127.0.0.1) 0.95ms referer=http://localhost:8890/lab/tree/CB.ipynb
+[W 2021-08-23 08:07:08.495 ServerApp] Forbidden
+[W 2021-08-23 08:07:08.495 ServerApp] 403 GET /api/kernels?1629695228482 (127.0.0.1) 0.50ms referer=http://localhost:8890/lab/tree/CB.ipynb
+[W 2021-08-23 08:07:08.522 ServerApp] Forbidden
+[W 2021-08-23 08:07:08.522 ServerApp] 403 GET /api/contents?content=1&1629695228492 (127.0.0.1) 0.53ms referer=http://localhost:8890/lab/tree/CB.ipynb
+[W 2021-08-23 08:07:08.523 ServerApp] Forbidden
+[W 2021-08-23 08:07:08.523 ServerApp] 403 GET /api/terminals?1629695228494 (127.0.0.1) 0.78ms referer=http://localhost:8890/lab/tree/CB.ipynb
+[W 2021-08-23 08:07:08.524 ServerApp] Forbidden
+[W 2021-08-23 08:07:08.524 ServerApp] 403 GET /api/sessions?1629695228498 (127.0.0.1) 0.97ms referer=http://localhost:8890/lab/tree/CB.ipynb
+[I 2021-08-23 08:07:10.052 LabApp] 302 GET /lab/tree/CB.ipynb (127.0.0.1) 0.81ms
+[I 2021-08-23 08:07:10.261 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:7cd795a0-0ee7-4a9d-8745-e17e2a0fbc38
+[I 2021-08-23 08:07:10.273 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:95cd8b5b-01ab-46b3-8118-7449456d062d
+[I 2021-08-23 08:07:25.718 ServerApp] 302 POST /login?next=%2Flab%2Ftree%2FCB.ipynb (127.0.0.1) 1.27ms
+[W 2021-08-23 08:07:29.476 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-08-23 08:07:36.228 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-23 08:07:37.951 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-23 08:07:37.970 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:e04168f6-0b23-4c28-9e97-974f2bdb0ba7
+[I 2021-08-23 08:07:38.075 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:e04168f6-0b23-4c28-9e97-974f2bdb0ba7
+[I 2021-08-23 08:09:32.509 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-24 08:43:53.006 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:7bcca524-6fe6-43bb-9f85-5610b3b0ea4c
+[I 2021-08-24 08:43:53.007 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:e04168f6-0b23-4c28-9e97-974f2bdb0ba7
+[W 2021-08-24 08:43:56.612 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-08-24 08:44:02.363 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-24 08:44:09.312 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-24 08:44:09.319 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:42239c13-08b7-4447-bb4f-9c95c6356e15
+[I 2021-08-24 08:44:09.365 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:42239c13-08b7-4447-bb4f-9c95c6356e15
+[I 2021-08-24 08:45:59.985 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-24 09:06:00.183 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-24 09:08:00.358 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-24 09:09:34.369 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-24 09:09:34.440 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:42239c13-08b7-4447-bb4f-9c95c6356e15
+[I 2021-08-24 09:09:34.460 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:42239c13-08b7-4447-bb4f-9c95c6356e15
+[I 2021-08-24 09:10:00.473 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-24 09:12:00.589 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-24 09:24:05.308 ServerApp] Saving file at /mycb_list.csv
+[I 2021-08-24 09:25:18.288 ServerApp] Saving file at /mycb_list.csv
+[I 2021-08-25 06:52:37.807 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:42239c13-08b7-4447-bb4f-9c95c6356e15
+[I 2021-08-25 06:52:37.807 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:7ba9c353-1360-481d-a8db-5e0247d41ccc
+[W 2021-08-25 09:28:11.642 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-08-25 09:28:17.038 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-25 09:28:32.319 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-25 09:28:32.328 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-25 09:28:32.335 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-25 09:30:14.493 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-25 09:30:22.374 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-25 09:30:22.382 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-25 09:30:22.409 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-25 09:32:14.614 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-25 09:42:42.600 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-25 09:42:42.915 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-25 09:42:42.943 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-25 09:44:14.773 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-25 23:15:58.276 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-08-25 23:17:59.555 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-08-26 08:56:03.722 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:15975980-09ac-4505-a8df-5f7c6c6f738f
+[I 2021-08-26 08:56:03.724 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:3f358beb-2065-4bc4-b55c-30986f3faa4c
+[W 2021-08-26 08:56:07.055 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-08-26 08:56:13.706 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-26 08:56:16.556 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-26 08:56:16.565 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:736be10b-0c84-43c0-aefc-4665822fa185
+[I 2021-08-26 08:56:16.588 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:736be10b-0c84-43c0-aefc-4665822fa185
+[I 2021-08-26 08:58:10.452 ServerApp] Saving file at /CB.ipynb
