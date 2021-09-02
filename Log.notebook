@@ -546,3 +546,86 @@ nohup: ignoring input
 [I 2021-08-30 10:08:53.091 ServerApp] Saving file at /mycb_list.csv
 [I 2021-08-30 10:10:53.123 ServerApp] Saving file at /mycb_list.csv
 [I 2021-08-30 10:11:10.020 ServerApp] Saving file at /mycb_list.csv
+[I 2021-08-30 23:28:39.922 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:788bb7fc-ff0e-440e-9564-c8dc924199ed
+[I 2021-08-30 23:28:39.923 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:079a7c8a-c8ce-4a19-bd76-6a3b24999212
+[I 2021-08-30 23:28:39.925 ServerApp] Starting buffering for ea0070be-5e7d-429e-b66d-7459efa209ad:7447fdee-843b-436d-a423-395ed50fa120
+[W 2021-08-30 23:28:42.422 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-08-30 23:30:54.393 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-30 23:32:46.472 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-30 23:34:46.625 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-30 23:36:46.869 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-30 23:38:47.155 ServerApp] Saving file at /CB.ipynb
+[I 2021-08-31 00:09:59.935 ServerApp] Starting buffering for ea0070be-5e7d-429e-b66d-7459efa209ad:81c00cdf-c1cc-47de-a5ed-7c2b148611bd
+[I 2021-08-31 00:09:59.935 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:2031a1f8-444c-4a45-813b-f967251406f3
+[I 2021-08-31 00:09:59.936 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:b35e3ded-f698-4071-b451-3205f5c5b74b
+[I 2021-08-31 00:09:59.956 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-31 00:09:59.957 ServerApp] Restoring connection for 74351a82-3177-4018-ac6b-eeecf9a6b56b:b35e3ded-f698-4071-b451-3205f5c5b74b
+[I 2021-08-31 00:09:59.972 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:2031a1f8-444c-4a45-813b-f967251406f3
+[I 2021-08-31 00:09:59.993 ServerApp] Restoring connection for ea0070be-5e7d-429e-b66d-7459efa209ad:81c00cdf-c1cc-47de-a5ed-7c2b148611bd
+[W 2021-08-31 00:11:29.958 ServerApp] WebSocket ping timeout after 90001 ms.
+[W 2021-08-31 00:11:29.973 ServerApp] WebSocket ping timeout after 90000 ms.
+[W 2021-08-31 00:11:29.994 ServerApp] WebSocket ping timeout after 90000 ms.
+[I 2021-08-31 00:11:34.960 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:b35e3ded-f698-4071-b451-3205f5c5b74b
+[I 2021-08-31 00:11:34.974 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:2031a1f8-444c-4a45-813b-f967251406f3
+[I 2021-08-31 00:11:34.994 ServerApp] Starting buffering for ea0070be-5e7d-429e-b66d-7459efa209ad:81c00cdf-c1cc-47de-a5ed-7c2b148611bd
+[W 2021-08-31 09:22:34.206 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-08-31 09:22:50.525 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-08-31 09:22:54.138 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-08-31 09:22:54.147 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:12e4d1e2-12d8-422b-b424-85d4f643c58d
+[I 2021-08-31 09:22:54.175 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:12e4d1e2-12d8-422b-b424-85d4f643c58d
+[I 2021-08-31 09:24:46.894 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 00:16:25.269 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:b3499c73-d7a8-4473-bcf7-1bf65d56b4c8
+[I 2021-09-01 00:16:25.269 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:12e4d1e2-12d8-422b-b424-85d4f643c58d
+[I 2021-09-01 00:16:25.276 ServerApp] Starting buffering for ea0070be-5e7d-429e-b66d-7459efa209ad:2c60339c-d42d-4677-bf89-cabbbafe231f
+[W 2021-09-01 00:16:29.033 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-09-01 00:16:36.270 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-09-01 00:22:37.066 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:24:38.455 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:26:39.972 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:28:41.499 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:30:42.927 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:32:44.176 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:34:45.423 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 00:36:46.691 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 01:01:18.291 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:03:18.413 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:05:18.546 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:07:18.668 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:09:18.803 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:13:18.945 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:15:20.393 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:17:21.330 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:33:04.446 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 01:35:04.571 ServerApp] Saving file at /CB_test.ipynb
+[I 2021-09-01 09:07:42.748 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-09-01 09:07:42.910 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:07:43.068 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:09:14.274 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 09:20:20.312 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-09-01 09:20:20.319 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:20:20.355 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:21:16.594 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 09:24:26.229 ServerApp] Saving file at /mycb_list.csv
+[I 2021-09-01 09:29:15.979 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 09:31:17.474 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 09:33:19.345 ServerApp] Saving file at /Plot2.ipynb
+[I 2021-09-01 09:46:14.209 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 09:54:15.334 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-09-01 09:54:15.344 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:54:15.353 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:54:17.377 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 09:56:18.415 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 09:58:46.672 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-09-01 09:58:46.680 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 09:58:46.712 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[I 2021-09-01 10:00:19.480 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-01 23:03:07.344 ServerApp] Starting buffering for ea0070be-5e7d-429e-b66d-7459efa209ad:a40bd549-c0fd-4e8f-b4e1-d38245a1c514
+[I 2021-09-01 23:03:07.344 ServerApp] Starting buffering for 74351a82-3177-4018-ac6b-eeecf9a6b56b:1eac3ce3-c224-44ba-9fdd-3f55c548d033
+[I 2021-09-01 23:03:07.344 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:706a5d39-4ab2-4155-809c-c3fbb6587757
+[W 2021-09-01 23:03:11.084 LabApp] Could not determine jupyterlab build status without nodejs
+[I 2021-09-01 23:59:07.659 ServerApp] Adapting from protocol version 5.0 (kernel 74351a82-3177-4018-ac6b-eeecf9a6b56b) to 5.3 (client).
+[I 2021-09-02 09:07:01.556 ServerApp] Kernel restarted: a27d1897-3023-4019-b938-9c3e3dfb12bc
+[I 2021-09-02 09:07:01.564 ServerApp] Starting buffering for a27d1897-3023-4019-b938-9c3e3dfb12bc:b6a78534-c169-4fec-b918-f046909af4e7
+[I 2021-09-02 09:07:01.594 ServerApp] Restoring connection for a27d1897-3023-4019-b938-9c3e3dfb12bc:b6a78534-c169-4fec-b918-f046909af4e7
+[I 2021-09-02 09:07:17.080 ServerApp] Saving file at /CB.ipynb
+[I 2021-09-02 09:09:17.233 ServerApp] Saving file at /CB.ipynb
